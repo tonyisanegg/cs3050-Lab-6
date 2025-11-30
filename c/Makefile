@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS = -Wall -Wextra -O2 -std=c11
+CFLAGS = -Wall -Wextra -O2 -std=c11 -D_USE_MATH_DEFINES -D_GNU_SOURCE
 LDFLAGS = -lm
 
 all: route_planner
