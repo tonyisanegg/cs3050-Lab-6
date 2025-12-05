@@ -53,6 +53,15 @@ Extend ONE of the three implementations (C, Python, or Go) to support time windo
    3,38.9050,-77.0300,50,150
    ```
 
+**The edge structure does not need to change for this activity** 
+
+```csv
+from,to,distance
+1,2,2.5
+2,3,3.0
+1,3,4.0
+```
+
 2. Implement a modified shortest path algorithm that finds paths where you arrive at each node within its time window `[earliest, latest]`
 
 3. If no feasible path exists (constraints cannot be satisfied), your program should:
