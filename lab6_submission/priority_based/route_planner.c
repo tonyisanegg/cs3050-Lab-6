@@ -1,5 +1,8 @@
 // LAB 6 PART 1 SUBMITTED BY TONY NAJJAR (adnnk2)
 
+//INCOMPLETE PART OF SUBMISSION - WILL BE COMPLETE IN A SOON TO FOLLOW RESUBMISSION
+//(unless i forget to remove this comment in the future)
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
